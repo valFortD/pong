@@ -56,8 +56,8 @@ int main() {
     ball.x = screen_width/2;
     ball.y = screen_height/2;
     ball.radius = 18.5;
-    ball.speed_x = 6;
-    ball.speed_y = 6;
+    ball.speed_x = 7;
+    ball.speed_y = 7;
 
     platform.x = screen_width * 0.95;
     platform.y = screen_height * 0.4 - platform.height/2;
